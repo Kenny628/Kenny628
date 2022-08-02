@@ -1,0 +1,33 @@
+[
+    {
+        "id":0,
+        "key":"Mango",
+        "checked":false,
+        "activeState":true
+    },{
+        "id":1,
+        "key":"Banana",
+        "checked":false,
+        "activeState":true
+    },{
+        "id":2,
+        "key":"Papaya",
+        "checked":false,
+        "activeState":true
+    },{
+        "id":3,
+        "key":"Grapes",
+        "checked":false,
+        "activeState":true
+    },{
+        "id":4,
+        "key":"Guava",
+        "checked":false,
+        "activeState":true
+    },{
+        "id":5,
+        "key":"Lychee",
+        "checked":false,
+        "activeState":true
+    }
+]
